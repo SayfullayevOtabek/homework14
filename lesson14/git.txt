@@ -1,0 +1,10 @@
+git config --global user.name "SayfullayevOtabek"
+git config --global user.email "sayfullayevotabek2@gmail.com"
+
+
+
+git init
+
+git add .
+
+git commit -m "your commit"
